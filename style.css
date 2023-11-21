@@ -1,0 +1,29 @@
+section{
+    max-width: 500px;
+    margin: 50px auto;
+    border-radius: 10px;
+    color: white;
+    background-color:rgba(26, 61, 156, 0.805); 
+}
+form{
+display: flex;
+flex-direction: column;
+padding: 50px;
+
+}
+input{
+ margin-bottom: 10px;   
+}
+buttom{
+     margin-top: 10px;
+    background-color: rgba(25, 25, 157, 0.88);
+   
+    }
+    body{
+        transition: background-color 1s, color 1s;
+    }
+    
+.modoEscuro{
+            background-color: #000;
+            color:#fff;
+    }
